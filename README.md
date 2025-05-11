@@ -41,13 +41,9 @@
 
 ###
 
-<p align="left"><strong>✨Apacionado por la tecnologia, economía y desarrollo<br></strong>
-  <strong>📚 Actualmente estoy estudiando:</strong>
-  <br>-Data Science con AI % Oracle Cloud Infraestructure - Alura Latam y Oracle Next Education
-  <br>-Especializacion en Ecommerce y Data Analytics - Semillero Digital
-  <br>-Data Engineer - Udemy (Learning path)<br>
-  <strong>🎯 Objetivo: Aportar al desarrollo tecnologia como un excelente profesional<br></strong>
-  <strong>🧑‍💼 Mi historia:</strong> Me gradué de la secundaria como técnico químico, profesión que a día de hoy ya no ejerzo porque descubrí mi pasión por la tecnología, los números y la economía.<br> Descubrir que podría trabajar alrededor de mis pasiones me hizo lanzarme a esta área, una decisión que me agradeceré siempre y me gustaría que más gente tome coraje para incursionar en este maravilloso mundo.</p><br>
+<p align="left"><strong>✨Apacionado por la tecnologia y desarrollo<br></strong>
+  <strong>🎯 Objetivo: Seguir mejorando y desarrollandome como developer, tambien poder aportar con mi conocimiento<br></strong>
+  <strong>🧑‍💼 Mi historia:</strong> Soy apacionado a la tecnologia hace tiempo y desde que realice mi primer pagina web quede facinado de que tan lejos se puede llegar en el rubro IT.<br> Cuando tuve la oportunidad de lanzarme a este mundo no dude en aprovecharla, estoy contento y agradecido con lo que se me presento en el camino. Realmente me gustaria que otras personas conozcan este mundo tambien.</p><br>
 
 ###
 
