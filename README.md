@@ -1,4 +1,4 @@
-<h1 align="center">🚀Hola, soy Alexander Benitez🚀</h1>
+<h1 align="center">✨Hola, soy Alexander Benitez✨</h1>
 
 
 <div align="center">
@@ -20,7 +20,7 @@
           <td>📈 <strong>Data Analytics</strong></td>
         </tr>
         <tr>
-          <td>🐍 <strong>React.js</strong></td>
+          <td>✨ <strong>React.js</strong></td>
           <td>🤖 <strong>Data Science</strong></td>
         </tr>
         <tr>
@@ -42,8 +42,8 @@
 ###
 
 <p align="left"><strong>✨Apacionado por la tecnologia y desarrollo<br></strong>
-  <strong>🎯 Objetivo: Seguir mejorando y desarrollandome como developer, tambien poder aportar con mi conocimiento<br></strong>
-  <strong>🧑‍💼 Mi historia:</strong> Soy apacionado a la tecnologia hace tiempo y desde que realice mi primer pagina web quede facinado de que tan lejos se puede llegar en el rubro IT.<br> Cuando tuve la oportunidad de lanzarme a este mundo no dude en aprovecharla, estoy contento y agradecido con lo que se me presento en el camino. Realmente me gustaria que otras personas conozcan este mundo tambien.</p><br>
+  <strong> Objetivo: Seguir mejorando y desarrollandome como developer, tambien poder aportar con mi conocimiento<br></strong>
+  <strong> Mi historia:</strong> Soy apacionado a la tecnologia hace tiempo y desde que realice mi primer pagina web quede facinado de que tan lejos se puede llegar en el rubro IT.<br> Cuando tuve la oportunidad de lanzarme a este mundo no dude en aprovecharla, estoy contento y agradecido con lo que se me presento en el camino. Realmente me gustaria que otras personas conozcan este mundo tambien.</p><br>
 
 ###
 
