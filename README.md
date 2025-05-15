@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td>
-      <h2>🚀 Tecnologías que manejo</h2>
+      <h2>Tecnologías que manejo</h2>
       <table>
         <tr>
           <th>💻 Desarrollo</th>
